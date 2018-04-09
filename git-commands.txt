@@ -1,0 +1,19 @@
+	• $ pwd
+	• $ mkdir projects
+	• $ cd projects
+	• $ git version
+	• $ git config --global user.name "elnashara"
+	• $ git config --global user.email "elnashara@ymail.com"
+	• $ git config --global --list
+	• $ git clone https://github.com/elnashara/github-demo.git
+	• $ ls
+	• $ cd github-demo
+	• $ ls (List the files in the current directory)
+	• $ clear
+	• $ echo "Test Git Quick Start demo" >> start.txt (Create a new file in the LOCAL working directory)
+	• $ cat start.txt (Display the content)
+	• $ git add start.txt (Add that files to LOCAL staging)
+	• $ git status
+	• $ git commit -m "master Adding start text file"
+	• $ git push origin master
+	
